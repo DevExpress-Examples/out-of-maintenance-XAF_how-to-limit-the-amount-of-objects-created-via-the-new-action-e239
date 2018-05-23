@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitObjectsCreatedViaNewAction.Module", "HowToLimitAmountOfObjectsCreatedViaNewAction.Module\LimitObjectsCreatedViaNewAction.Module.csproj", "{CFA3CAD2-FB74-4A54-9D84-B370A74FF399}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitObjectsCreatedViaNewAction.Module.Web", "HowToLimitAmountOfObjectsCreatedViaNewAction.Module.Web\LimitObjectsCreatedViaNewAction.Module.Web.csproj", "{F3F165C3-A2E3-4A25-82E6-801DC035A466}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitObjectsCreatedViaNewAction.Web", "HowToLimitAmountOfObjectsCreatedViaNewAction.Web\LimitObjectsCreatedViaNewAction.Web.csproj", "{A15DA416-1870-4025-B93A-A405EF3C2CB5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitObjectsCreatedViaNewAction.Module.Win", "HowToLimitAmountOfObjectsCreatedViaNewAction.Module.Win\LimitObjectsCreatedViaNewAction.Module.Win.csproj", "{CD8AB8FF-6C1A-4AFE-8643-46064097DF1B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitObjectsCreatedViaNewAction.Win", "HowToLimitAmountOfObjectsCreatedViaNewAction.Win\LimitObjectsCreatedViaNewAction.Win.csproj", "{C3A509A8-7282-4D81-9C68-70C3F3BF0E10}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA3CAD2-FB74-4A54-9D84-B370A74FF399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA3CAD2-FB74-4A54-9D84-B370A74FF399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA3CAD2-FB74-4A54-9D84-B370A74FF399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA3CAD2-FB74-4A54-9D84-B370A74FF399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F165C3-A2E3-4A25-82E6-801DC035A466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F165C3-A2E3-4A25-82E6-801DC035A466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F165C3-A2E3-4A25-82E6-801DC035A466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F165C3-A2E3-4A25-82E6-801DC035A466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15DA416-1870-4025-B93A-A405EF3C2CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15DA416-1870-4025-B93A-A405EF3C2CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15DA416-1870-4025-B93A-A405EF3C2CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15DA416-1870-4025-B93A-A405EF3C2CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8AB8FF-6C1A-4AFE-8643-46064097DF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8AB8FF-6C1A-4AFE-8643-46064097DF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8AB8FF-6C1A-4AFE-8643-46064097DF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8AB8FF-6C1A-4AFE-8643-46064097DF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A509A8-7282-4D81-9C68-70C3F3BF0E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A509A8-7282-4D81-9C68-70C3F3BF0E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A509A8-7282-4D81-9C68-70C3F3BF0E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A509A8-7282-4D81-9C68-70C3F3BF0E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
