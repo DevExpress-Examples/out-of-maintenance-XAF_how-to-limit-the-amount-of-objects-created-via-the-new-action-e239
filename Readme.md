@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyController.cs](./CS/HowToLimitAmountOfObjectsCreatedViaNewAction.Module/MyController.cs) (VB: [MyController.vb](./VB/HowToLimitAmountOfObjectsCreatedViaNewAction.Module/MyController.vb))
+<!-- default file list end -->
 # How to Limit the Amount of Objects Created via the New Action
 
 
