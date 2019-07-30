@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to Limit the Amount of Objects Created via the New Action
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e239)**
+**[[Run Online]](https://codecentral.devexpress.com/e239/)**
 <!-- run online end -->
 
 
